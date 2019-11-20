@@ -1,0 +1,2 @@
+pewarisan.Car
+pewarisan.Vehicle
